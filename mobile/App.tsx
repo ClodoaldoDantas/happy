@@ -13,9 +13,9 @@ import Routes from './src/routes';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
-    nunitoSemiBold: Nunito_600SemiBold,
-    nunitoBold: Nunito_700Bold,
-    nunitoExtraBold: Nunito_800ExtraBold,
+    Nunito_600SemiBold,
+    Nunito_700Bold,
+    Nunito_800ExtraBold,
   });
 
   if (!fontsLoaded) {
