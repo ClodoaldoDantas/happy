@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="logo.svg" />
-</h1>
+![Happy](logo.svg)
 
 ## :rocket: Tecnologias
 
