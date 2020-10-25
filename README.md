@@ -1,5 +1,9 @@
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="logo.svg" />
+</h1>
+
 [![author](https://img.shields.io/badge/author-clodoaldodantas-blue?style=flat-square)](https://github.com/ClodoaldoDantas)
-[![GitHub language count](https://img.shields.io/github/languages/count/clodoaldodantas/happy?color=green&style=flat-square)](#)
+[![GitHub language count](https://img.shields.io/github/languages/count/clodoaldodantas/happy?color=blue&style=flat-square)](#)
 [![GitHub](https://img.shields.io/github/license/clodoaldodantas/happy?color=blue&style=flat-square)](#)
 
 ## :rocket: Tecnologias
